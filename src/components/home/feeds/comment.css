@@ -1,0 +1,24 @@
+.comments{
+    margin: 10px;
+    border-bottom: 1px solid gray;
+}
+.comment-user{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.comment-user-photo{
+    width: 35px;
+    height: 35px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.comment-username{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+.comment{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-size: 1.2rem;
+}
